@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aiguruitmaster.github.io/bestcasino-test-v1.com/sitemap.xml
